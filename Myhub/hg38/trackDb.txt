@@ -1,0 +1,10 @@
+track Hela_Con
+bigDataUrl Hela_Con.bw
+shortLabel Hela_Con
+longLabel Hela_Con
+type bigWig
+visibility full
+autoScale on
+maxHeightPixels 128:32:11
+priority 1
+color 255,0,0

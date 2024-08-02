@@ -1,0 +1,6 @@
+hub ENCODE_hg38_kallisto
+shortLabel kallisto
+longLabel kallisto hg38 data
+genomesFile genomes.txt
+email hoshi990201@gmail.com
+descriptionUrl description.txt
