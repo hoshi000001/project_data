@@ -1,5 +1,5 @@
-hub ENCODE_hg38_kallisto
-shortLabel kallisto
-longLabel kallisto hg38 data
+hub project_data_test
+shortLabel test
+longLabel project test
 genomesFile genomes.txt
 email hoshi990201@gmail.com
